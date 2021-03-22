@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-spa-hard/static/css/main.6b2f99ca.chunk.css",
+    "main.js": "/react-spa-hard/static/js/main.20dc211c.chunk.js",
+    "main.js.map": "/react-spa-hard/static/js/main.20dc211c.chunk.js.map",
+    "runtime-main.js": "/react-spa-hard/static/js/runtime-main.7b3f3506.js",
+    "runtime-main.js.map": "/react-spa-hard/static/js/runtime-main.7b3f3506.js.map",
+    "static/js/2.c712ffa2.chunk.js": "/react-spa-hard/static/js/2.c712ffa2.chunk.js",
+    "static/js/2.c712ffa2.chunk.js.map": "/react-spa-hard/static/js/2.c712ffa2.chunk.js.map",
+    "index.html": "/react-spa-hard/index.html",
+    "static/css/main.6b2f99ca.chunk.css.map": "/react-spa-hard/static/css/main.6b2f99ca.chunk.css.map",
+    "static/js/2.c712ffa2.chunk.js.LICENSE.txt": "/react-spa-hard/static/js/2.c712ffa2.chunk.js.LICENSE.txt",
+    "static/media/preloader.1b42d9e1.svg": "/react-spa-hard/static/media/preloader.1b42d9e1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b3f3506.js",
+    "static/js/2.c712ffa2.chunk.js",
+    "static/css/main.6b2f99ca.chunk.css",
+    "static/js/main.20dc211c.chunk.js"
+  ]
+}
